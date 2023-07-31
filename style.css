@@ -1,0 +1,20 @@
+.heading {
+    text-align: center;
+}
+
+.button-description {
+    text-align: center;
+}
+
+.period-btns {
+    display: flex;
+    justify-content: center;
+}
+
+.period-btns button {
+    margin: 5px;
+}
+
+.period-btns button:focus {
+    color: blue;
+}
